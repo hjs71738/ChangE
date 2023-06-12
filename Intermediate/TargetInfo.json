@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Develope",
+			"Path": "C:\\UE\\Develope\\Develope\\Source\\Develope.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "DevelopeEditor",
+			"Path": "C:\\UE\\Develope\\Develope\\Source\\DevelopeEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Develope.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\UE\Develope\Develope\Intermediate\Build\Win64\x64\DevelopeEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"C:\UE\Develope\Develope\Intermediate\Build\Win64\x64\UnrealEditor\Development\Develope\Develope.cpp.obj"
+"C:\UE\Develope\Develope\Intermediate\Build\Win64\x64\UnrealEditor\Development\Develope\ForSteamPlugins.cpp.obj"
+"C:\UE\Develope\Develope\Intermediate\Build\Win64\x64\UnrealEditor\Development\Develope\Default.rc2.res"
+/OUT:"C:\UE\Develope\Develope\Intermediate\Build\Win64\x64\UnrealEditor\Development\Develope\UnrealEditor-Develope.lib"
